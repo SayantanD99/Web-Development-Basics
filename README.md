@@ -1,5 +1,5 @@
 # Web-Development-Basics
-Learning and Practicing Web Developement. This Repository would contain the assignments and other basic projects which I preapred during the learning process.
+Learning and Practicing Web Developement. This Repository would contain the assignments and other basic projects which I prepared during the learning process.
 
 Courses which I referred to while Learning :
 
